@@ -1,0 +1,105 @@
+id,name,list_date,description,rep_id
+1,Slim Fit V-Neck Tee,2024-10-01,classic description of whatever this product is,1
+2,Relaxed Cotton T-Shirt,2024-10-01,classic description of whatever this product is,1
+3,Graphic Print Tee,2024-10-01,classic description of whatever this product is,1
+4,Vintage Wash T-Shirt,2022-07-01,classic description of whatever this product is,2
+5,Performance Active Tee,2022-07-01,classic description of whatever this product is,2
+6,Soft Touch Polo Shirt,2022-07-01,classic description of whatever this product is,3
+7,Striped Cotton Polo,2022-07-01,classic description of whatever this product is,3
+8,Linen Blend Short Sleeve Shirt,2022-07-01,classic description of whatever this product is,3
+9,Denim Button-Up Shirt,2022-07-01,classic description of whatever this product is,3
+10,Classic Oxford Shirt,2024-10-01,classic description of whatever this product is,4
+11,Flannel Plaid Shirt,2024-10-01,classic description of whatever this product is,4
+12,Lightweight Chambray Shirt,2024-10-01,classic description of whatever this product is,4
+13,Moisture-Wicking Polo,2024-10-01,classic description of whatever this product is,4
+14,Fitted Henley Shirt,2024-10-01,classic description of whatever this product is,4
+15,Casual Everyday Hoodie,2024-10-01,classic description of whatever this product is,4
+16,Zip-Up Sports Hoodie,2024-10-01,classic description of whatever this product is,4
+17,Premium Knit Hoodie,2022-10-01,classic description of whatever this product is,5
+18,Ultra-Soft Lounge Hoodie,2023-10-01,classic description of whatever this product is,6
+19,Fleece Lined Hoodie,2023-10-01,classic description of whatever this product is,7
+20,Classic Straight Leg Jeans,2023-10-01,classic description of whatever this product is,7
+21,Slim Fit Denim Jeans,2023-10-01,classic description of whatever this product is,7
+22,Relaxed Fit Cargo Pants,2023-10-01,classic description of whatever this product is,7
+23,Tapered Chino Pants,2023-10-01,classic description of whatever this product is,7
+24,Stretch Cotton Joggers,2023-10-01,classic description of whatever this product is,7
+25,Lightweight Linen Pants,2023-10-01,classic description of whatever this product is,7
+26,Athletic Fit Track Pants,2024-04-01,classic description of whatever this product is,8
+27,Corduroy Straight Pants,2024-04-01,classic description of whatever this product is,8
+28,High-Waisted Trousers,2024-04-01,classic description of whatever this product is,8
+29,Wide Leg Dress Pants,2024-04-01,classic description of whatever this product is,8
+30,Cozy Flannel Pajama Set,2024-04-01,classic description of whatever this product is,9
+31,Classic Cotton Pajama Pants,2024-01-01,classic description of whatever this product is,10
+32,Silky Soft Sleepwear Set,2024-01-01,classic description of whatever this product is,10
+33,Thermal Long Sleeve Pajamas,2024-01-01,classic description of whatever this product is,10
+34,Relaxed Fit Sleep Shorts,2024-01-01,classic description of whatever this product is,10
+35,Fleece-Lined Winter Pajamas,2022-04-01,classic description of whatever this product is,11
+36,Breathable Bamboo Sleepwear,2024-01-01,classic description of whatever this product is,12
+37,Plaid Button-Up Pajama Set,2024-01-01,classic description of whatever this product is,13
+38,Ultra-Light Pajama Set,2024-01-01,classic description of whatever this product is,13
+39,Hooded Lounge Set,2024-01-01,classic description of whatever this product is,13
+40,Classic Boxer Briefs,2024-07-01,classic description of whatever this product is,14
+41,Seamless Stretch Briefs,2022-01-01,classic description of whatever this product is,15
+42,Breathable Cotton Briefs,2024-01-01,classic description of whatever this product is,16
+43,Moisture-Wicking Boxer Shorts,2022-04-01,classic description of whatever this product is,17
+44,Ultra-Soft Modal Trunks,2023-01-01,classic description of whatever this product is,18
+45,Classic White Undershirt,2023-01-01,classic description of whatever this product is,18
+46,Performance Compression Shorts,2023-01-01,classic description of whatever this product is,18
+47,No-Show Trunks,2022-07-01,classic description of whatever this product is,19
+48,Sport Fit Boxer Briefs,2023-07-01,classic description of whatever this product is,20
+49,Tagless Comfort Underwear,2024-04-01,classic description of whatever this product is,21
+50,Ribbed Cotton Tank Top,2024-04-01,classic description of whatever this product is,21
+51,Athletic Compression Tank,2024-04-01,classic description of whatever this product is,21
+52,Casual Sleeveless Tee,2024-04-01,classic description of whatever this product is,21
+53,Fitted Muscle Tank,2024-04-01,classic description of whatever this product is,21
+54,Lightweight Mesh Tank,2024-04-01,classic description of whatever this product is,21
+55,Premium Wool Crew Socks,2022-01-01,classic description of whatever this product is,22
+56,Cushioned Athletic Socks,2023-07-01,classic description of whatever this product is,23
+57,No-Show Ankle Socks,2023-07-01,classic description of whatever this product is,23
+58,Classic Cotton Dress Socks,2022-10-01,classic description of whatever this product is,24
+59,Thermal Winter Socks,2024-04-01,classic description of whatever this product is,25
+60,Breathable Running Socks,2024-10-01,classic description of whatever this product is,26
+61,Patterned Business Socks,2024-10-01,classic description of whatever this product is,26
+62,Reinforced Work Boot Socks,2024-10-01,classic description of whatever this product is,27
+63,Colorful Fun Print Socks,2024-07-01,classic description of whatever this product is,28
+64,Bamboo Fiber Ankle Socks,2024-07-01,classic description of whatever this product is,28
+65,Snug Fit Baby Onesie,2024-07-01,classic description of whatever this product is,28
+66,Organic Cotton Baby Bodysuit,2023-04-01,classic description of whatever this product is,29
+67,Cozy Zip-Up Onesie,2022-07-01,classic description of whatever this product is,30
+68,Animal Print Baby Jumpsuit,2023-04-01,classic description of whatever this product is,31
+69,Soft Stretch Romper,2022-01-01,classic description of whatever this product is,32
+70,Long Sleeve Baby Onesie,2022-01-01,classic description of whatever this product is,32
+71,Fleece-Lined Baby Jumpsuit,2022-01-01,classic description of whatever this product is,32
+72,Lightweight Summer Onesie,2022-01-01,classic description of whatever this product is,32
+73,Hooded Baby Playsuit,2022-01-01,classic description of whatever this product is,32
+74,Adorable Patterned Onesie,2022-01-01,classic description of whatever this product is,32
+75,Essential Crewneck Sweatshirt,2022-01-01,classic description of whatever this product is,32
+76,Oversized Fleece Sweatshirt,2022-01-01,classic description of whatever this product is,32
+77,Half-Zip Pullover Sweatshirt,2022-04-01,classic description of whatever this product is,33
+78,Heavyweight Thermal Sweatshirt,2022-04-01,classic description of whatever this product is,33
+79,Vintage Graphic Sweatshirt,2022-01-01,classic description of whatever this product is,34
+80,Casual Relaxed Fit Sweatpants,2023-07-01,classic description of whatever this product is,35
+81,Tapered Jogger Sweatpants,2023-07-01,classic description of whatever this product is,35
+82,Ultra-Soft Lounge Sweatpants,2023-07-01,classic description of whatever this product is,35
+83,Athleisure Stretch Pants,2023-07-01,classic description of whatever this product is,35
+84,Fleece-Lined Track Pants,2022-04-01,classic description of whatever this product is,36
+85,Classic Denim Jacket,2022-10-01,classic description of whatever this product is,37
+86,Relaxed Fit Hoodie Jacket,2022-10-01,classic description of whatever this product is,37
+87,Lightweight Windbreaker,2022-10-01,classic description of whatever this product is,37
+88,Water-Resistant Rain Jacket,2023-10-01,classic description of whatever this product is,38
+89,Sherpa-Lined Zip Jacket,2022-01-01,classic description of whatever this product is,39
+90,Longline Puffer Coat,2022-07-01,classic description of whatever this product is,40
+91,Midweight Quilted Jacket,2022-07-01,classic description of whatever this product is,40
+92,Insulated Winter Parka,2022-07-01,classic description of whatever this product is,40
+93,Stretch-Fit Bomber Jacket,2024-04-01,classic description of whatever this product is,41
+94,Classic Peacoat,2024-04-01,classic description of whatever this product is,41
+95,Essential Longline Cardigan,2024-04-01,classic description of whatever this product is,41
+96,Cable Knit Sweater,2024-04-01,classic description of whatever this product is,41
+97,Fitted Turtleneck Pullover,2024-01-01,classic description of whatever this product is,42
+98,Chunky Wool Sweater,2024-01-01,classic description of whatever this product is,42
+99,Slim Fit Crewneck Sweater,2024-01-01,classic description of whatever this product is,42
+100,V-Neck Ribbed Knit Sweater,2024-07-01,classic description of whatever this product is,43
+101,Textured Knit Pullover,2024-07-01,classic description of whatever this product is,43
+102,Waffle-Knit Cotton Sweater,2022-07-01,classic description of whatever this product is,44
+103,Cashmere Blend Sweater,2024-01-01,classic description of whatever this product is,45
+104,Mock Neck Knit Sweater,2024-10-01,classic description of whatever this product is,46
