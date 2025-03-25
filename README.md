@@ -26,6 +26,17 @@ Modeling Schemas:
 
 [Relational Schema](https://github.com/user-attachments/assets/f35f715d-d43b-4074-bf0f-0ee2457f6411)
 
+Resoure Locations: 
+
+Data preprocessing scripts can be found in /pre-processing
+
+Table delete & create statments can be found in /table_creation
+
+Sample sql queries can be found in /test_queries
+
+Data can be found in /data
+
+Data population script can be found in '/data insertion & test queries'
 
 
 
