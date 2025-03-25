@@ -12,8 +12,11 @@ Data for this project was created at random. See the 'pre-prossesing' directory.
 representative of any real entity and created purely to populate this database.
 
 Project Progression Through Milestones:
+
 [BSAD 384 Term Assignment - Milestone 1.pdf](https://github.com/user-attachments/files/19449906/BSAD.384.Term.Assignment.-.Milestone.1.pdf)
+
 [Term project - Milestone 2.pdf](https://github.com/user-attachments/files/19449922/Term.project.-.Milestone.2.pdf)
+
 [Term project - Milestone 3.pdf](https://github.com/user-attachments/files/19449924/Term.project.-.Milestone.3.pdf)
 
 
