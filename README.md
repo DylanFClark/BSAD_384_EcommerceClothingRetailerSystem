@@ -19,6 +19,11 @@ Project Progression Through Milestones:
 
 [Term project - Milestone 3.pdf](https://github.com/user-attachments/files/19450006/_Term.project.-.Milestone.3.pdf)
 
+Modeling Schemas:
+
+[ER Diagram](https://github.com/user-attachments/assets/b0fe691c-a069-4be1-8a24-fd6d8577001a)
+
+[relational schema](https://github.com/user-attachments/assets/9b43f716-54a0-450f-8a18-f5d651dbf1a0)
 
 
 
