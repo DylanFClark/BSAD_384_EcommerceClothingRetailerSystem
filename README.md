@@ -40,16 +40,34 @@ Data preprocessing scripts can be found in /pre-processing
 
 Table delete & create statments can be found in /table_creation
 
-[drop script](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/table_creation/drop_script.sql))
-
-
-
-Sample sql queries can be found in /test_queries
+[drop script](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/table_creation/drop_script.sql)
+[create script](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/table_creation/create_table_script.sql)
 
 Data can be found in /data
 
 Data population script can be found in '/data insertion & test queries'
 
+[populate.sql](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/data%20insertion%20%26%20test%20queries/populate.sql)
 
+Sample sql queries can be found in /test_queries
+
+1) Retrieve the total of every cart, with more expensive carts first. 
+   
+SELECT 
+	c.id as cart_id,
+	sum(i.price * ci.quantity) as total
+FROM 
+	cart_item ci
+JOIN 
+	cart c 
+	ON c.id = ci.cart_id
+JOIN item i
+	ON i.id = ci.item_id
+GROUP BY
+	c.id
+ORDER BY
+	total desc;
+
+2) 
 
 
