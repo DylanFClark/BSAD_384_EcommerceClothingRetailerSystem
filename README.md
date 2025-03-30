@@ -38,17 +38,17 @@ representative of any real entity and created purely to populate this database.
 
 ## Data preprocessing scripts can be found in /pre-processing
 
-[data generation script](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/pre-prossesing/all_data_gen_script.py)
+[all_data_gen_script.py](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/pre-prossesing/all_data_gen_script.py)
 
-[data converter](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/pre-prossesing/data_converter.py)
+[data_converter.py](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/pre-prossesing/data_converter.py)
 
-[autogen sql insert statement](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/pre-prossesing/autogen_sql_insert_script.py)
+[autogen_sql_insert_script.py](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/pre-prossesing/autogen_sql_insert_script.py)
 
 ## Table delete & create statments can be found in /table_creation
 
-[drop script](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/table_creation/drop_script.sql)
+[drop_script.sql](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/table_creation/drop_script.sql)
 
-[create script](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/table_creation/create_table_script.sql)
+[create_table_script.sql](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/table_creation/create_table_script.sql)
 
 ## Data can be found in /data
 
