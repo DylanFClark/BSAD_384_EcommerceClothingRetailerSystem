@@ -74,7 +74,7 @@ ORDER BY
 	total desc;
 ```
 
-1) Lookup our manufacturers
+2) Lookup our manufacturers
 
 ```
 select * from supplier;
