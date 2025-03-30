@@ -24,6 +24,9 @@ Modeling Schemas:
 
 [ER Diagram](https://github.com/user-attachments/assets/b0fe691c-a069-4be1-8a24-fd6d8577001a)
 
+![image](https://github.com/user-attachments/assets/bf6def4d-fcda-407d-9c38-2c3c3aff94ac)
+
+
 [Relational Schema](https://github.com/user-attachments/assets/f35f715d-d43b-4074-bf0f-0ee2457f6411)
 
 Resoure Locations: 
