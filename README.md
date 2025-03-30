@@ -36,7 +36,7 @@ representative of any real entity and created purely to populate this database.
 
  # Resoure Locations:
 
-## Data preprocessing scripts can be found in /pre-processing
+## Data preprocessing scripts
 
 [all_data_gen_script.py](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/pre-prossesing/all_data_gen_script.py)
 
@@ -44,7 +44,7 @@ representative of any real entity and created purely to populate this database.
 
 [autogen_sql_insert_script.py](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/pre-prossesing/autogen_sql_insert_script.py)
 
-## Table delete & create statments can be found in /table_creation
+## Table delete & create statments
 
 [drop_script.sql](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/table_creation/drop_script.sql)
 
@@ -53,13 +53,13 @@ representative of any real entity and created purely to populate this database.
 ## Data can be found in /data
 
 
-## Data population script can be found in '/data insertion & test queries'
+## Data population script
 
 [populate.sql](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/data%20insertion%20%26%20test%20queries/populate.sql)
 
 
 
-## Sample sql queries can be found in /test_queries
+## Sample sql queries
 
 1) Retrieve the total of every cart, with more expensive carts first. 
 
