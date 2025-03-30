@@ -13,7 +13,8 @@ Data for this project was created at random. See the 'pre-prossesing' directory.
 representative of any real entity and created purely to populate this database.
 
 
-Project Progression Through Milestones:
+# Project Progression Through Milestones:
+---
 
 [Term project - Milestone 1.pdf](https://github.com/user-attachments/files/19449956/BSAD.384.Term.Assignment.-.Milestone.1.pdf)
 
@@ -22,38 +23,42 @@ Project Progression Through Milestones:
 [Term project - Milestone 3.pdf](https://github.com/user-attachments/files/19450006/_Term.project.-.Milestone.3.pdf)
 
 
-Modeling Schemas:
+# Modeling Schemas:
 
-**Entity Relation Diagram**
+##Entity Relation Diagram
 
 ![image](https://github.com/user-attachments/assets/bf6def4d-fcda-407d-9c38-2c3c3aff94ac)
 
 
-**Relational Schema**
+##Relational Schema
 
 ![image](https://github.com/user-attachments/assets/e88c5185-1084-4796-953b-647e4beef47c)
 
 
-**Resoure Locations: **
+ # Resoure Locations:
+---
 
+## Data preprocessing scripts can be found in /pre-processing
 
-**Data preprocessing scripts can be found in /pre-processing**
-
-**Table delete & create statments can be found in /table_creation**
+## Table delete & create statments can be found in /table_creation
+---
 
 [drop script](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/table_creation/drop_script.sql)
 
 [create script](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/table_creation/create_table_script.sql)
 
-**Data can be found in /data**
+## Data can be found in /data
 
-**Data population script can be found in '/data insertion & test queries'**
+
+## Data population script can be found in '/data insertion & test queries'
+---
 
 [populate.sql](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/data%20insertion%20%26%20test%20queries/populate.sql)
 
 
 
-**Sample sql queries can be found in /test_queries**
+## Sample sql queries can be found in /test_queries
+---
 
 1) Retrieve the total of every cart, with more expensive carts first. 
 
