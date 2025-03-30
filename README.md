@@ -52,7 +52,7 @@ Data population script can be found in '/data insertion & test queries'
 Sample sql queries can be found in /test_queries
 
 1) Retrieve the total of every cart, with more expensive carts first. 
-   
+'''
 SELECT 
 	c.id as cart_id,
 	sum(i.price * ci.quantity) as total
@@ -67,7 +67,70 @@ GROUP BY
 	c.id
 ORDER BY
 	total desc;
+'''
 
-2) 
+1) Lookup our manufacturers
+
+'''
+select * from supplier;
+'''
+
+3) Locate our highest rated products.
+
+'''
+SELECT 
+	p.id as product_id,
+	p.name as product,
+	avg(r.rating * 1.0) as average,
+	count(r.id) as num_reviews
+FROM
+	review r
+JOIN 
+	product p 
+	ON p.id = r.product_id
+GROUP BY 
+	p.id,
+	p.name
+ORDER BY 
+	average DESC;
+'''
+
+4) Query for the highest selling products ( all time )
+
+'''
+SELECT 
+	p.id as product_id, 
+	p.name as product, 
+	sum(ci.quantity) as total_sold
+FROM 
+	product p
+JOIN
+	item i
+	ON i.product_id = p.id
+JOIN	
+	cart_item ci
+	ON ci.item_id = i.id
+GROUP BY
+	p.id, p.name
+ORDER BY
+	sum(ci.quantity) DESC;
+'''
+
+
+5) Determine AOV ( Average order value )
+
+'''
+SELECT 
+	SUM(i.price * ci.quantity) / COUNT(DISTINCT c.id) AS AOV
+FROM 
+	cart c
+join 
+	cart_item ci
+	ON ci.cart_id = c.id
+join 
+	item i 
+	ON i.id = ci.item_id;****
+'''
+
 
 
