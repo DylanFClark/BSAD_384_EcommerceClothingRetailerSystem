@@ -42,6 +42,7 @@ Modeling Schemas:
 **Table delete & create statments can be found in /table_creation**
 
 [drop script](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/table_creation/drop_script.sql)
+
 [create script](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/table_creation/create_table_script.sql)
 
 **Data can be found in /data**
