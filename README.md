@@ -35,10 +35,16 @@ Modeling Schemas:
 
 
 **Resoure Locations: **
+
 Data preprocessing scripts can be found in /pre-processing
+
 Table delete & create statments can be found in /table_creation
+
+
 Sample sql queries can be found in /test_queries
+
 Data can be found in /data
+
 Data population script can be found in '/data insertion & test queries'
 
 
