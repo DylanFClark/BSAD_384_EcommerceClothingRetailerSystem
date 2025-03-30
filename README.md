@@ -27,7 +27,7 @@ Modeling Schemas:
 ![image](https://github.com/user-attachments/assets/bf6def4d-fcda-407d-9c38-2c3c3aff94ac)
 
 
-[Relational Schema](https://github.com/user-attachments/assets/f35f715d-d43b-4074-bf0f-0ee2457f6411)
+**Relational Schema**
 
 ![image](https://github.com/user-attachments/assets/e88c5185-1084-4796-953b-647e4beef47c)
 
