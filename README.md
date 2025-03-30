@@ -14,7 +14,6 @@ representative of any real entity and created purely to populate this database.
 
 
 # Project Progression Through Milestones:
----
 
 [Term project - Milestone 1.pdf](https://github.com/user-attachments/files/19449956/BSAD.384.Term.Assignment.-.Milestone.1.pdf)
 
@@ -36,12 +35,10 @@ representative of any real entity and created purely to populate this database.
 
 
  # Resoure Locations:
----
 
 ## Data preprocessing scripts can be found in /pre-processing
 
 ## Table delete & create statments can be found in /table_creation
----
 
 [drop script](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/table_creation/drop_script.sql)
 
@@ -51,14 +48,12 @@ representative of any real entity and created purely to populate this database.
 
 
 ## Data population script can be found in '/data insertion & test queries'
----
 
 [populate.sql](https://github.com/DylanFClark/BSAD_384_EcommerceClothingRetailerSystem/blob/main/data%20insertion%20%26%20test%20queries/populate.sql)
 
 
 
 ## Sample sql queries can be found in /test_queries
----
 
 1) Retrieve the total of every cart, with more expensive carts first. 
 
