@@ -24,12 +24,12 @@ representative of any real entity and created purely to populate this database.
 
 # Modeling Schemas:
 
-##Entity Relation Diagram
+## Entity Relation Diagram
 
 ![image](https://github.com/user-attachments/assets/bf6def4d-fcda-407d-9c38-2c3c3aff94ac)
 
 
-##Relational Schema
+## Relational Schema
 
 ![image](https://github.com/user-attachments/assets/e88c5185-1084-4796-953b-647e4beef47c)
 
