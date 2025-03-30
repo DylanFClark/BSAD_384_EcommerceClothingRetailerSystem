@@ -29,6 +29,9 @@ Modeling Schemas:
 
 [Relational Schema](https://github.com/user-attachments/assets/f35f715d-d43b-4074-bf0f-0ee2457f6411)
 
+![image](https://github.com/user-attachments/assets/e88c5185-1084-4796-953b-647e4beef47c)
+
+
 Resoure Locations: 
 
 Data preprocessing scripts can be found in /pre-processing
