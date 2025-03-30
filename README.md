@@ -40,7 +40,7 @@ Data preprocessing scripts can be found in /pre-processing
 
 Table delete & create statments can be found in /table_creation
 
-[drop script](https://github.com/BSAD_384_EcommerceClothingRetailerSystem/table_creation/drop_script.sql.pdf)
+[drop script](https://github.com/BSAD_384_EcommerceClothingRetailerSystem/table_creation/drop_script.sql)
 
 
 
