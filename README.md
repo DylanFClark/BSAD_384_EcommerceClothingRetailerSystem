@@ -140,7 +140,7 @@ join
 	ON ci.cart_id = c.id
 join 
 	item i 
-	ON i.id = ci.item_id;****
+	ON i.id = ci.item_id;
 ```
 
 
